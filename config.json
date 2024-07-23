@@ -1,0 +1,9 @@
+{
+    "input_dir": "assets",
+    "output_images_dir": "output_images",
+    "output_metadata_dir": "output_metadata",
+    "image_size": {
+        "width": 512,
+        "height": 512
+    }
+}
